@@ -1,0 +1,11 @@
+﻿MiniJSON/Library
+MiniJSON/Library/*
+MiniJSON/Temp
+MiniJSON/Temp/*
+MiniJSON/obj
+MiniJSON/obj/*
+MiniJSON/*.csproj
+MiniJSON/*.unityproj
+MiniJSON/*.sln
+MiniJSON/*.suo
+MiniJSON/*.user
